@@ -1,7 +1,6 @@
 #CSS Flip Counter
 
-===============================================================================================
- 9-7-16
+# 9-7-16
 ===============================================================================================
  * Added ability to specify number of places for flipboard so that the number of items can be fixed, if needed.
  * Usage: var myCounter = new flipCounter('myCounter', {value: 20, inc: -1, pace: 1000, auto: true, places: 5});
